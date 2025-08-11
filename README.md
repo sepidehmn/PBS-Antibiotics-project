@@ -110,7 +110,7 @@ source .venv/bin/activate        # Windows: .venv\Scripts\activate
 # 2) Install deps
 pip install -r requirements.txt  # pandas, matplotlib
 
-# 3) Put your raw CSVs here (not tracked by git):
+# 3) Put your raw CSVs here:
 #    data/raw/pbs-atc-2015.csv
 #    data/raw/population_sample.csv
 
