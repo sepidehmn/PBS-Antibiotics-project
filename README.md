@@ -1,5 +1,5 @@
 # PBS Antibiotics — Australia (2015)
-Beginner-friendly analysis of antibiotic prescribing using Australian PBS (Pharmaceutical Benefits Scheme) data and ABS population to compute scripts per 1,000 people and plot simple trends.
+Analysis of antibiotic prescribing using Australian PBS (Pharmaceutical Benefits Scheme) data and ABS population to compute scripts per 1,000 people and plot simple trends.
 
 # Skills I practised
 data cleaning from messy CSVs, date parsing, grouping/aggregation, and clear visualisation with pandas + matplotlib.
